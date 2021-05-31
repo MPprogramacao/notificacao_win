@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\bin\Debug\Notificacao.exe.config
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\bin\Debug\Notificacao.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\bin\Debug\Notificacao.pdb
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.Form1.resources
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.Form_Alert.resources
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Notificacao\obj\Debug\Notificacao.pdb
